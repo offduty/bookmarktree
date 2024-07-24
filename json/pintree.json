@@ -5,13 +5,6 @@
     "title": "Bookmarks bar",
     "children": [
       {
-        "type": "link",
-        "addDate": 1701754863122,
-        "title": "CodeTime - 追迹你的编程时长",
-        "icon": "https://logo.clearbit.com/codetime.dev",
-        "url": "https://codetime.dev/zh-CN/dashboard/settings"
-      },
-      {
         "type": "folder",
         "addDate": 1709207613364,
         "title": "产品运营",
